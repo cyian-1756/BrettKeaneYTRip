@@ -13,3 +13,9 @@ The python script opens the batch file in a infinate loop. This allows you to le
 
 # Why
 Because why not? Also Brett Keane is famous for deleting videos that make him look like an idiot. So make sure you have all of his videos so you can mirror them immediately and then send that to The Drunken Peasants. Cause why not?
+
+# Why aren't you using this?
+Because I don't want my PC littered with Brett Keane vids. I may do it once I can gather the amount of storage space needed.
+
+# Are there any other efforts to archive Brett Keanes shit?
+Well I also run a bot that will tweet anything Brett tweets. Meaning that all of the herendous shit he tweets to others will be kept there, where he will be unable to delete it. You can find it [here!](https://twitter.com/BrettKeanTweets)
